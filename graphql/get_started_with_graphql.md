@@ -225,7 +225,7 @@ You will get the response:
     }
 ```
 
-You can get complete index.js file here https://github.com/echo-qin/learning-tech/graphql/examples/index.js.
+You can get complete index.js file [here](./examples/index.js).
 
 ## Characteristics of GraphQL - ask exactly what you want
 GraphQL has many strengths. Here we only talk about this one - ask exactly what you want.\
